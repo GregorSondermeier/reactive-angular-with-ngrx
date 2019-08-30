@@ -1,2 +1,3 @@
-# reactive-angular-with-ngrx
+# Reactive Angular with NgRx
+
 Doing https://frontendmasters.com/courses/angular-reactive/
